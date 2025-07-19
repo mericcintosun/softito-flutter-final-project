@@ -288,9 +288,9 @@ flutter run
 
 Bu proje hakkında sorularınız varsa benimle iletişime geçebilirsiniz:
 
-- **GitHub:** [GitHub Profilim]
-- **LinkedIn:** [LinkedIn Profilim]  
-- **Email:** [Email Adresim]
+- **GitHub:** [https://github.com/mericcintosun]
+- **LinkedIn:** [https://www.linkedin.com/in/meric-cintosun/]  
+- **Email:** [contact@mericcintosun.com]
 
 ---
 
