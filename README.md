@@ -269,7 +269,7 @@ flutter run
 ## Geliştirici Bilgileri
 
 **Proje Türü:** Flutter Mobile Application  
-**Geliştirme Süresi:** 4 hafta  
+**Geliştirme Süresi:** 2 hafta  
 **Eğitim:** SoftIto Yazılım ve Bilişim Akademisi Mobile App Developer  
 **Seviye:** Junior Developer Bitirme Projesi  
 **Platform:** Android & iOS  
